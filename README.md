@@ -10,5 +10,6 @@ NanoREX-  Arduino Nano and nRF24L01+ for RC Receiver..instead of Writing PWM it 
 more info on: https://tachymoron.wordpress.com/
 drop comments or queries: 
 
-hardik.mad@gmail.com
-brian.boozebacon@outlook.com
+                            hardik.mad@gmail.com
+
+                            brian.boozebacon@outlook.com
