@@ -11,5 +11,3 @@ more info on: https://tachymoron.wordpress.com/
 drop comments or queries: 
 
                             hardik.mad@gmail.com
-
-                            brian.boozebacon@outlook.com
